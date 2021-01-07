@@ -16,7 +16,7 @@ X=MsgBox("Your Computer is FUCKED, goodluck <3",3+16,"Alert")
 X=MsgBox("Your computer will now shutdown, and will not be able to turn on again. Have a nice day <3",2+16,"Warning")
 Set C=CreateObject("Shell.Application")
 C.ShellExecute "Chrome.exe","https://youtu.be/d1YBv2mWll0","","",1
-Set C=CreateObject("Shell.Application")
+
 
 
 
