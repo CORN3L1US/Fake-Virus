@@ -12,9 +12,19 @@ X=MsgBox("Could not stop This shit haha.",1+16,"Completed")
 X=MsgBox("Your computer will be unable to use in 5 minutes!",4+64,"Warning")
 X=MsgBox("Unless...",4+64,"Warning")
 X=MsgBox("Nah, Theres Is No Unless",4+64,"Warning")
-X=MsgBox("This Virus LOVES YOU <3 ",4+64,"Warning")
-X=MsgBox("This Virus LOVES YOU <3 ",4+64,"Warning")
 X=MsgBox("Your Computer is FUCKED, goodluck <3",3+16,"Alert")
 X=MsgBox("Your computer will now shutdown, and will not be able to turn on again. Have a nice day <3",2+16,"Warning")
-set shell = CreateObject("Wscript.Shell")
-shell.run"shutdown.exe -s -t 30"
+Set C=CreateObject("Shell.Application")
+C.ShellExecute "Chrome.exe","https://youtu.be/d1YBv2mWll0","","",1
+Set C=CreateObject("Shell.Application")
+C.ShellExecute "Chrome.exe","https://youtu.be/d1YBv2mWll0","","",1
+Set C=CreateObject("Shell.Application")
+C.ShellExecute "Chrome.exe","https://youtu.be/d1YBv2mWll0","","",1
+Set C=CreateObject("Shell.Application")
+C.ShellExecute "Chrome.exe","https://youtu.be/d1YBv2mWll0","","",1
+Set C=CreateObject("Shell.Application")
+C.ShellExecute "Chrome.exe","https://youtu.be/d1YBv2mWll0","","",1
+Set C=CreateObject("Shell.Application")
+C.ShellExecute "Chrome.exe","https://youtu.be/d1YBv2mWll0","","",1
+
+
