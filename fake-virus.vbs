@@ -17,14 +17,6 @@ X=MsgBox("Your computer will now shutdown, and will not be able to turn on again
 Set C=CreateObject("Shell.Application")
 C.ShellExecute "Chrome.exe","https://youtu.be/d1YBv2mWll0","","",1
 Set C=CreateObject("Shell.Application")
-C.ShellExecute "Chrome.exe","https://youtu.be/d1YBv2mWll0","","",1
-Set C=CreateObject("Shell.Application")
-C.ShellExecute "Chrome.exe","https://youtu.be/d1YBv2mWll0","","",1
-Set C=CreateObject("Shell.Application")
-C.ShellExecute "Chrome.exe","https://youtu.be/d1YBv2mWll0","","",1
-Set C=CreateObject("Shell.Application")
-C.ShellExecute "Chrome.exe","https://youtu.be/d1YBv2mWll0","","",1
-Set C=CreateObject("Shell.Application")
-C.ShellExecute "Chrome.exe","https://youtu.be/d1YBv2mWll0","","",1
+
 
 
